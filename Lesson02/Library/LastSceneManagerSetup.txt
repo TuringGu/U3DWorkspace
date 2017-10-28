@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/GameDevelop/Unity/U3DWorkspace/Lesson01/Assets/01.unity
+  isLoaded: 1
+  isActive: 1
