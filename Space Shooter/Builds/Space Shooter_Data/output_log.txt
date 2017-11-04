@@ -15,28 +15,22 @@ Platform assembly: D:\GameDevelop\Unity\U3DWorkspace\Space Shooter\Builds\Space 
 Loading D:\GameDevelop\Unity\U3DWorkspace\Space Shooter\Builds\Space Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\GameDevelop\Unity\U3DWorkspace\Space Shooter\Builds\Space Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\GameDevelop\Unity\U3DWorkspace\Space Shooter\Builds\Space Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.079 seconds
+- Completed reload, in  0.061 seconds
 Platform assembly: D:\GameDevelop\Unity\U3DWorkspace\Space Shooter\Builds\Space Shooter_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\GameDevelop\Unity\U3DWorkspace\Space Shooter\Builds\Space Shooter_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.465780 ms
+UnloadTime: 36.799332 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 27c0 -> priority: 1 
-  Thread -> id: 4760 -> priority: 1 
-  Thread -> id: 469c -> priority: 1 
-  Thread -> id: 4bc8 -> priority: 1 
+  Thread -> id: 4990 -> priority: 1 
+  Thread -> id: 347c -> priority: 1 
+  Thread -> id: 1e4c -> priority: 1 
+  Thread -> id: 2258 -> priority: 1 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.277698 ms
+UnloadTime: 0.491275 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 406.
-Total: 0.257706 ms (FindLiveObjects: 0.022186 ms CreateObjectMapping: 0.014872 ms MarkObjects: 0.215527 ms  DeleteObjects: 0.004632 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.245271 ms
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 406.
-Total: 0.231862 ms (FindLiveObjects: 0.019017 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.195778 ms  DeleteObjects: 0.003657 ms)
+Total: 0.434711 ms (FindLiveObjects: 0.038034 ms CreateObjectMapping: 0.028038 ms MarkObjects: 0.359862 ms  DeleteObjects: 0.007314 ms)
 
