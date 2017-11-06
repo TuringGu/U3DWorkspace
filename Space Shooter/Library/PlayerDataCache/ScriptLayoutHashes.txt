@@ -1,5 +1,5 @@
 Android
-4f700e71b25c9d5a80a9324b12c49fd9 Assembly-CSharp.dll:.GameController
+c2c6d44f6a4f84129ec64efdd0df28ea Assembly-CSharp.dll:.GameController
 dc07d7ad69b399a46e92c483bf1c04ca UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsTracker
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 9f07aaefd0255462bb6e4f9e5da6b2d4 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
@@ -114,6 +114,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DestroyByBoundary
 ca60dfd40465205ae76c6d3e60a7e88a Assembly-CSharp.dll:.Done_EvasiveManeuver
+e6620c373ab7ec2b45024da89745a65e Assembly-CSharp.dll:.BGScroller
 c37d1c326e418bcde90e97e4d0eb74c9 Assembly-CSharp.dll:.Done_DestroyByContact
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -145,5 +146,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 85ae836fe3814eb4d4896d863841de8c Assembly-CSharp.dll:.Done_PlayerController
 4c4e5bbdfb8b8f4d80c5ad7176b30d43 Assembly-CSharp.dll:.Done_RandomRotator
 e6620c373ab7ec2b45024da89745a65e Assembly-CSharp.dll:.Done_BGScroller
+a103ef39709a6c39ff0e24f81396e8e5 Assembly-CSharp.dll:.WeaponController
 c2c6d44f6a4f84129ec64efdd0df28ea Assembly-CSharp.dll:.Done_GameController
 16eb4163a2f2f6ad746ffaeccc8e318d Assembly-CSharp.dll:.PlayerController
+0d46987a385ad60994d59d02fd545fe4 Assembly-CSharp.dll:.EvasiveManeuver
